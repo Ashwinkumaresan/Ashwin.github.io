@@ -1,0 +1,119 @@
+*{
+	 
+	margin: 0px;
+	padding: 0px;
+}
+
+.header{
+	background: black;
+	color: white;
+	padding: 25px;
+
+}
+
+.name{
+	font-size: 100px;
+	display: inline-block;
+	background: black;
+	color: white;
+
+}
+
+.degree{
+	font-size: 50px;
+	background: black;
+	color: white;
+	display: inline-block;
+	margin: 25px;
+
+}
+
+
+.p1{
+	display: inline-block;
+	width: 700px;
+}
+
+ .image{
+ 	float: right;
+ 	width: 30%;
+ 	left: 20%;
+ 	border-color: black;
+ 	border-width: 4px;
+ 	border-style: solid;
+ 	padding: 20px;
+ 	border-radius: 100px;
+ 	border-end-end-radius: 450px;
+ 	border-end-start-radius: 400px;
+ 	border-start-end-radius: 400px;
+ 	border-left-style: dotted;
+ 	border-top-style: dotted;
+ 	cursor: pointer;
+ }
+
+ .image:hover{
+ 	transform: scale(1.1);
+ 	background: black;
+ 	color: white;
+ }
+
+.about_i{
+	position:absolute;
+	width: 70%;
+	bottom: 2%;
+	right: 10%;
+}
+
+.data{
+	display: inline-block;
+	width: 800px;
+	font-size: 20px;
+	padding-left: 5%;
+}
+
+.para{
+	padding-top: 40px;
+	font-size: 25px;
+}
+
+.fa {  
+  	padding: 15px;  
+	text-align: center;  
+  	margin: 7px 2px;  
+  	font-size: 30px;  
+  	width: 30px;
+} 
+.fa-instagram {  
+ 	background: #125688;  
+  	color: white;  
+}  
+
+.fa-linkedin {  
+  background: #007bb5;  
+  color: white;  
+}  
+
+.fa-snapchat-ghost {  
+  background: yellow;  
+  color: white;  
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;  
+}
+
+.fa-pinterest {  
+  background: white;  
+  color: red;  
+}  
+
+.fa-twitter {  
+  background: blue;  
+  color: white;  
+}  
+
+.fa-whatsapp {  
+  background:#25D366;  
+  color: white;  
+} 
+
+.fa:hover {  
+    opacity: 0.9;  
+}    
